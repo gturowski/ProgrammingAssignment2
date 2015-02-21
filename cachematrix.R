@@ -1,4 +1,5 @@
-The first function, makeCacheMatrix creates a special "vector", which is really a list containing a function to:
+# The first function, makeCacheMatrix creates a special "vector",
+# which is really a list containing a function to:
 # 1. set the value of the matrix
 # 2. get the value of the matrix
 # 3. set the value of inverse of the matrix
